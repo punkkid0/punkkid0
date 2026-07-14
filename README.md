@@ -27,6 +27,7 @@ I’m especially interested in work where **software engineering meets cybersecu
 |---------|------|------|
 | **Afrifit** | Case study (source private) | [afrifit-case-study](https://github.com/punkkid0/afrifit-case-study) |
 | **Payment Clearance** | Case study (source private) | [payment-clearance-portfolio](https://github.com/punkkid0/payment-clearance-portfolio) |
+| **MP3 Tag** | Public Python tool | [Ramseverywhere_mp3tag](https://github.com/punkkid0/Ramseverywhere_mp3tag) |
 | **MP4 → Sticker** | Public Python tool | [mp4-to-sticker](https://github.com/punkkid0/mp4-to-sticker) |
 | **Ramseverywhere Snipe** | Public OSINT CLI | [ramseverywhere_snipe](https://github.com/punkkid0/ramseverywhere_snipe) |
 | **Crypto Lab** | Public CTF toolkit | [ramseverywhere_crypto_lab](https://github.com/punkkid0/ramseverywhere_crypto_lab) |
